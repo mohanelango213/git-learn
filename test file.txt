@@ -1,6 +1,7 @@
 test-tech change 1
 test tech change 2
-testing c branch change 1
+test-tech change 3
+testing c branch change 1 | test-tech change 3
 testing c branch change 2
 test-a change 1
 test-a change 2
