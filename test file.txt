@@ -3,5 +3,5 @@ test tech change 2
 test-tech change 3
 test-tech change 4 | testing c branch change 1 | test-tech change 3
 testing c branch change 2
-test-a change 1
+test-tech change 6
 test-a change 2 | test-tech change 5
